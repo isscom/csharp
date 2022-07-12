@@ -1,0 +1,5 @@
+array[1]: 2 
+array[2]: 4 
+array[3]: 6 
+array[4]: 8 
+array[5]: 10 

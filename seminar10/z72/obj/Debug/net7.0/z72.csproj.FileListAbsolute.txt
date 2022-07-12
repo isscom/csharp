@@ -1,0 +1,15 @@
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.csproj.AssemblyReference.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.AssemblyInfoInputs.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.AssemblyInfo.cs
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.csproj.CoreCompileInputs.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\bin\Debug\net7.0\z72.exe
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\bin\Debug\net7.0\z72.deps.json
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\bin\Debug\net7.0\z72.runtimeconfig.json
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\bin\Debug\net7.0\z72.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\bin\Debug\net7.0\z72.pdb
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\refint\z72.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.pdb
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\z72.genruntimeconfig.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar10\z72\obj\Debug\net7.0\ref\z72.dll

@@ -1,0 +1,15 @@
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\bin\Debug\net7.0\z26func.exe
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\bin\Debug\net7.0\z26func.deps.json
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\bin\Debug\net7.0\z26func.runtimeconfig.json
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\bin\Debug\net7.0\z26func.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\bin\Debug\net7.0\z26func.pdb
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.csproj.AssemblyReference.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.AssemblyInfoInputs.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.AssemblyInfo.cs
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.csproj.CoreCompileInputs.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\refint\z26func.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.pdb
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\z26func.genruntimeconfig.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\C\seminar4\z26func\obj\Debug\net7.0\ref\z26func.dll
