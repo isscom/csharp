@@ -29,7 +29,7 @@ for (int i = 0; i < info.Length; i++)
         Console.Write ($"{data[j+k]} ");
         cdata[i] += (in)(data[j+k]*Math.Pow(2,j));
     }
-    Console.WriteLie(cdata[i]);
+    Console.WriteLine(cdata[i]);
     k+=info[i];
     Console.WriteLine();
 }

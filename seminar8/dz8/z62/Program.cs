@@ -1,16 +1,20 @@
 ﻿// Задача 62: Заполните спирально массив 4 на 4.
 
-void printArray(int[,] array) {                                //метод печатает двумерный массив
-    for (int i = 0; i < array.GetLength(0); i++) {      //перебираем строки i
-        for (int j = 0; j < array.GetLength(1); j++) {  //перебираем столбцы j
-            Console.Write(array[i,j] + " ");            //печатаем значения элементов
+void printArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {     
+        for (int j = 0; j < array.GetLength(1); j++)
+        {  
+            Console.Write(array[i,j] + " ");            
         }
         Console.WriteLine();
     }
     Console.WriteLine();
 }
 
-void spiralArray(int[,] matrix) {                              //метод заполняет двумерный массив спиралькой
+void spiralArray(int[,] matrix)
+{                              //метод заполняет двумерный массив спиралькой
 /* устнавливаем границы двумерного массива используя понятные,
 /* в первую очередь человеку, имена переменных */
     int rowStart = 0;                                          //начало строки = индекс 0
@@ -47,10 +51,11 @@ void spiralArray(int[,] matrix) {                              //метод за
     }                                                          //затем возвращаемся к циклу while и пока его условие выполняется, снова пробегаем по циклам
 }
 
-Console.Write("Введите количество строк двумерного массива: ");
-int row = int.Parse(Console.ReadLine());
-Console.Write("Введите количество столбцов двумерного массива: ");
-int column = int.Parse(Console.ReadLine());
+
+int row = 8;
+int column = 8;
+
 int[,] mass = new int[row,column];
-spiralArray(mass);                                             //вызываем метод заполняющий массив
-printArray(mass);                                              //вызываем метод печатающий массив
+
+spiralArray(mass);
+printArray(mass);
