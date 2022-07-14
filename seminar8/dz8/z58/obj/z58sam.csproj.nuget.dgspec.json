@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z58\\z58.csproj": {}
+    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z58sam\\z58sam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z58\\z58.csproj": {
+    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z58sam\\z58sam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z58\\z58.csproj",
-        "projectName": "z58",
-        "projectPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z58\\z58.csproj",
+        "projectUniqueName": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z58sam\\z58sam.csproj",
+        "projectName": "z58sam",
+        "projectPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z58sam\\z58sam.csproj",
         "packagesPath": "C:\\Users\\s.ivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z58\\obj\\",
+        "outputPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z58sam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s.ivanov\\AppData\\Roaming\\NuGet\\NuGet.Config"

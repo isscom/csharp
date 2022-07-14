@@ -1,0 +1,15 @@
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\bin\Debug\net7.0\z58sam.exe
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\bin\Debug\net7.0\z58sam.deps.json
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\bin\Debug\net7.0\z58sam.runtimeconfig.json
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\bin\Debug\net7.0\z58sam.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\bin\Debug\net7.0\z58sam.pdb
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.csproj.AssemblyReference.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.AssemblyInfoInputs.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.AssemblyInfo.cs
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.csproj.CoreCompileInputs.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\refint\z58sam.dll
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.pdb
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\z58sam.genruntimeconfig.cache
+C:\Users\s.ivanov\Downloads\Geek Brains\csharp\seminar8\dz8\z58sam\obj\Debug\net7.0\ref\z58sam.dll

@@ -1,49 +1,59 @@
 ﻿// Задача 58: Задайте две матрицы. Напишите программу, которая будет
 // находить произведение двух матриц.
 
-void printArray(int[,] mass) {                            //метод печатает двумерный массив
-    for (int i = 0; i < mass.GetLength(0); i++) {         //перебираем строки i
-        for (int j = 0; j < mass.GetLength(1); j++) {     //перебираем столбцы j
-            Console.Write(mass[i,j] + " ");               //печатаем значения элементов
+void PrintArray (int[,] ArrayForPrint, string Name) // Метод вывода матрицы на экран с указанием её названия
+{
+    Console.WriteLine(Name);
+    for (int i = 0; i < ArrayForPrint.GetLength(0); i++)
+    {
+        for (int j = 0; j < ArrayForPrint.GetLength(1); j++)
+        {
+            Console.Write(ArrayForPrint[i, j] + " ");
         }
-        Console.WriteLine();
+    Console.WriteLine();
+    }
+    Console.WriteLine();
+}
+
+void RandomArray (int[,] ArrayRandom) // Метод заполнения матрицы случайными числами
+{
+    for (int i = 0; i < ArrayRandom.GetLength(0); i++)
+    {
+        for (int j = 0; j < ArrayRandom.GetLength(1); j++)
+        {
+            ArrayRandom[i,j] = new Random().Next(1, 10);
+        }
     }
 }
 
-void fillArray(int[,] matrix) {                          //метод заполняет двумерный массив
-    for (int i = 0; i < matrix.GetLength(0); i++) {      //перебираем строки i
-        for (int j = 0; j < matrix.GetLength(1); j++) {  //перебираем столбцы j
-           matrix[i,j] = new Random().Next(0, 10);       //генерируем случайные значения
+void Multiplication (int[,] array1, int[,] array2, int[,] ArrayResult) // Метод вычисления произведения двух матриц
+{
+    for (int i = 0; i < ArrayResult.GetLength(0); i++)
+    {
+        for (int j = 0; j < ArrayResult.GetLength(1); j++)
+        {
+            ArrayResult[i, j] = array1[i, j] * array2[i, j];
         }
     }
 }
 
-void Multiplication(int[,] arr, int[,] arr2, int[,] arr3) {      //метод перемножает значения массивов array1 и array2
-    for (int i = 0; i < arr.GetLength(0); i++) {                 //перебираем строки i массива arr
-        for (int j = 0; j < arr2.GetLength(1); j++) {            //перебираем столбцы j массива arr2
-            arr3[i,j] = arr[i,j] * arr2[i,j];                    //записываем в arr3 перемноженный значения arr1 и arr2
-            Console.Write(arr3[i, j] + " ");
-        }
-        Console.WriteLine();
-    }
-}
+Console.Clear(); // Очистка консоли в начале программы
 
-Console.Write("Введите количество строк двумерного массива: ");
-int n = int.Parse(Console.ReadLine());
-Console.Write("Введите количество столбцов двумерного массива: ");
-int m = int.Parse(Console.ReadLine());
-// Второй массив будет с противоположными значениями
-int[,] mass1 = new int[n,m];
+Console.WriteLine("Введите количество строк матриц: ");
+int Rows = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Введите количество столбцов матриц: ");
+int Columns = int.Parse(Console.ReadLine());
+
+int[,] matrix1 = new int[Rows, Columns];
+int[,] matrix2 = new int[Rows, Columns];
+int[,] MatrixResult = new int[Rows, Columns];
+
+RandomArray(matrix1);
+RandomArray(matrix2);
 Console.WriteLine();
-fillArray(mass1);
-Console.WriteLine("Массив mass1:");
-printArray(mass1);
-int[,] mass2 = new int[m,n];
-Console.WriteLine();
-fillArray(mass2);
-Console.WriteLine("Массив mass2:");
-printArray(mass2);
-Console.WriteLine();
-int[,] mass3 = new int[n,n];
-Console.WriteLine("Массив mass3 c перемноженными значениями:");
-Multiplication(mass1, mass2, mass3);
+PrintArray(matrix1, "Первая матрица");
+PrintArray(matrix2, "Вторая матрица");
+
+Multiplication(matrix1, matrix2, MatrixResult);
+PrintArray(MatrixResult, "Произведение 2-х матриц");

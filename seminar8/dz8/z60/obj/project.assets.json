@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z60\\z60.csproj",
+      "projectUniqueName": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z60\\z60.csproj",
       "projectName": "z60",
-      "projectPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z60\\z60.csproj",
+      "projectPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z60\\z60.csproj",
       "packagesPath": "C:\\Users\\s.ivanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z60\\obj\\",
+      "outputPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z60\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s.ivanov\\AppData\\Roaming\\NuGet\\NuGet.Config"

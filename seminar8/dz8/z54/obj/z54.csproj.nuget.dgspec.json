@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z54\\z54.csproj": {}
+    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z54\\z54.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z54\\z54.csproj": {
+    "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z54\\z54.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z54\\z54.csproj",
+        "projectUniqueName": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z54\\z54.csproj",
         "projectName": "z54",
-        "projectPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z54\\z54.csproj",
+        "projectPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z54\\z54.csproj",
         "packagesPath": "C:\\Users\\s.ivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\C\\seminar8\\dz8\\z54\\obj\\",
+        "outputPath": "C:\\Users\\s.ivanov\\Downloads\\Geek Brains\\csharp\\seminar8\\dz8\\z54\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s.ivanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
